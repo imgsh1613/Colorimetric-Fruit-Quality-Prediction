@@ -1,0 +1,19 @@
+# Datasets and model weights
+dataset/
+weights/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs and runtime files
+logs/
+*.log
+
+# Large files
+*.csv

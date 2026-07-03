@@ -1,0 +1,6 @@
+{
+  "test_accuracy": 0.9802935123443604,
+  "test_loss": 0.07903055101633072,
+  "best_val_accuracy": 0.9848993420600891,
+  "epochs_trained": 28
+}
