@@ -447,17 +447,6 @@ GAUTAM project/
 
 ---
 
-## 👥 Contributors
-
-**GAUTAM Project Team**
-
----
-
-## 📜 License
-
-MIT
-
----
 
 <div align="center">
 
