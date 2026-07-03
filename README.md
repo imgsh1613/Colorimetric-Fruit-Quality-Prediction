@@ -1,4 +1,4 @@
-# 🍎 GAUTAM FruitSense — AI-Powered Post-Harvest Fruit Quality Intelligence
+# FruitSense — AI-Powered Post-Harvest Fruit Quality Intelligence
 
 <div align="center">
 
